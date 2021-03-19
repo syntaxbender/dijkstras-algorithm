@@ -2,7 +2,7 @@
 **2160656048**
 
 # Dijkstra’s Shortest Path Algoritması
-Dijkstra's algoritması, bir ağaç yapısındaki 2 node arasındaki en kısa mesafeyi; kısa süre, az işlem gücü, az step ile bulmamıza yarayan anlaşılması kolay algoritmalardan bir tanesidir.
+Dijkstra's algoritması, bir graph yapısındaki 2 node arasındaki en kısa mesafeyi; kısa süre, az işlem gücü, az step ile bulmamıza yarayan anlaşılması kolay algoritmalardan bir tanesidir.
 
 Algoritmayı incelemeye başlamadan önce birkaç soru sormalıyız diye düşünüyorum.
 
